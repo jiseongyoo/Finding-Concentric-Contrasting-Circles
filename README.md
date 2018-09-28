@@ -2,9 +2,12 @@
 Computer Vision Assignment: Finding CCC on the video and labeling them
 
 Class: CSCI507 Computer Vision at Colorado School of Mines
+
 Lecturer: Dr. T Williams
 
 Student: Jiseong Yoo
+
+
 
 Description:
 
