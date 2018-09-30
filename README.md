@@ -17,4 +17,3 @@ Description:
  Youtube Video link:
  
  https://youtu.be/gId-faU2aDM
-![](https://youtu.be/gId-faU2aDM)
