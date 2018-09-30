@@ -17,3 +17,4 @@ Description:
  Youtube Video link:
  
  https://youtu.be/gId-faU2aDM
+[![Find CCCs](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://youtu.be/gId-faU2aDM)
