@@ -19,6 +19,6 @@ Description:
  https://youtu.be/gId-faU2aDM
 <div class="video">
    <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="https://youtu.be/gId-faU2aDM">
+       <source src="https://youtu.be/gId-faU2aDM"/>
    </video>
 </div>
