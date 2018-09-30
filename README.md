@@ -17,4 +17,8 @@ Description:
  Youtube Video link:
  
  https://youtu.be/gId-faU2aDM
-[![Find CCCs](https://youtu.be/gId-faU2aDM)](https://youtu.be/gId-faU2aDM)
+<div class="video">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://youtu.be/gId-faU2aDM">
+   </video>
+</div>
